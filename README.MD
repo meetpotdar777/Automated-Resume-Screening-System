@@ -183,3 +183,4 @@ Visualizations: Add charts and graphs to visualize skill overlap, score distribu
 Deployment: Deploy the Flask application to a cloud platform (e.g., Heroku, AWS, Azure, Google Cloud) for public access.
 
 Feedback Loop: Implement a way for users to provide feedback on screening results to refine the model over time.
+
