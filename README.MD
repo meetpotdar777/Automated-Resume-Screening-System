@@ -176,8 +176,6 @@ Weighted Requirements: Allow users to assign different importance levels (e.g., 
 
 User Authentication & Data Storage: Implement user login, and use a database (e.g., SQLite, PostgreSQL) to store job descriptions, resumes, and screening results for historical tracking and multi-user access.
 
-
-
 Visualizations: Add charts and graphs to visualize skill overlap, score distribution, or other insights.
 
 Deployment: Deploy the Flask application to a cloud platform (e.g., Heroku, AWS, Azure, Google Cloud) for public access.
