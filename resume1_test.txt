@@ -1,0 +1,29 @@
+Resume 2: Machine Learning Engineer
+
+Contact: ml.engineer@example.com | LinkedIn: linkedin.com/in/ml-solutions
+
+Summary:
+Dedicated Machine Learning Engineer with 4 years of experience building and deploying scalable ML models. Strong background in natural language processing (NLP) and deep learning, with expertise in Python and cloud infrastructure. Seeking to apply advanced analytical and engineering skills to challenging AI projects.
+
+Experience:
+ML Engineer, AI Innovations Corp. | 2020 - Present
+- Developed and deployed NLP models for text classification and sentiment analysis using TensorFlow and Keras.
+- Implemented Transformer-based architectures (BERT, GPT-2) for specialized language understanding tasks.
+- Collaborated with data scientists to transition Jupyter Notebook prototypes into production-ready code.
+- Optimized model inference speed and reduced latency by containerizing applications with Docker.
+- Managed model versioning and experiment tracking using MLflow.
+
+Junior Data Scientist, Fintech Solutions | 2018 - 2020
+- Built predictive models for fraud detection using Python (scikit-learn) on financial transaction data.
+- Conducted data cleaning and feature engineering from large, raw datasets.
+- Presented model performance and insights to technical and non-technical audiences.
+- Utilized SQL for data extraction from enterprise databases.
+
+Skills:
+Machine Learning: Deep Learning, Natural Language Processing (NLP), Supervised/Unsupervised Learning, Model Deployment, MLOps
+Frameworks/Libraries: TensorFlow, Keras, PyTorch, scikit-learn, Hugging Face Transformers, NLTK, SpaCy
+Programming: Python (Expert), SQL (Intermediate), Java (Basic)
+Cloud Platforms: AWS (SageMaker, S3), Docker, Kubernetes
+Databases: PostgreSQL, MongoDB
+Tools: Git, MLflow, Jupyter, Confluence
+Soft Skills: Problem Solving, Analytical Skills, Technical Communication, Teamwork

@@ -1,0 +1,33 @@
+{
+    "cSpell.words": [
+        "dataframe",
+        "distilbert",
+        "Fintech",
+        "fredapi",
+        "Gunicorn",
+        "isinstance",
+        "Keras",
+        "lemmatization",
+        "lemmatize",
+        "Lemmatizer",
+        "lgbm",
+        "lightgbm",
+        "makedirs",
+        "matplotlib",
+        "nltk",
+        "numpy",
+        "productionized",
+        "punkt",
+        "rtext",
+        "scikit",
+        "Seaborn",
+        "sklearn",
+        "stopwords",
+        "supersecretkey",
+        "Tfidf",
+        "Vectorizer",
+        "virality",
+        "wordnet",
+        "yfinance"
+    ]
+}

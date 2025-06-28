@@ -1,0 +1,30 @@
+Job Title: Senior Data Scientist - Product Analytics
+
+Location: New York, NY (Hybrid)
+
+About DataDrive Innovations:
+DataDrive Innovations is a cutting-edge analytics firm that empowers e-commerce, media, and SaaS companies to make smarter business decisions. We pride ourselves on transforming complex data into actionable insights and building intelligent products. We are expanding our team and seeking a Senior Data Scientist who thrives on solving real-world challenges through rigorous analysis and machine learning.
+
+The Role:
+As a Senior Data Scientist focused on Product Analytics, you will be instrumental in understanding user behavior, optimizing product features, and driving growth. You will leverage advanced analytical techniques, statistical modeling, and machine learning to uncover key insights from large datasets. A strong background in experimentation (A/B testing), SQL, Python, and excellent communication skills are essential.
+
+Key Responsibilities:
+- Design, execute, and analyze A/B tests and other experiments to evaluate new product features and marketing initiatives.
+- Develop and deploy predictive models to forecast user engagement, churn, and lifetime value.
+- Perform deep-dive analyses into user behavior data to identify trends, opportunities, and pain points.
+- Build and maintain robust data pipelines and dashboards using SQL and Python for reporting and monitoring key metrics.
+- Collaborate cross-functionally with product managers, engineers, and marketing teams to define metrics, interpret results, and provide data-driven recommendations.
+- Translate complex analytical findings into clear, concise, and actionable insights for business stakeholders.
+- Mentor junior analysts and promote best practices in data science and experimentation.
+
+Required Skills & Qualifications:
+- Master's or Ph.D. in a quantitative field (e.g., Statistics, Computer Science, Economics, Operations Research).
+- 5+ years of experience in data science, with at least 3 years focused on product analytics or experimentation.
+- **Expert proficiency in SQL** for complex data extraction and manipulation.
+- **Strong programming skills in Python** (including `pandas`, `numpy`, `scikit-learn`).
+- **Extensive experience with A/B testing design, implementation, and analysis.**
+- Proven ability to build and evaluate **predictive models** (e.g., classification, regression).
+- Excellent **statistical modeling** capabilities.
+- Experience with data visualization tools (e.g., Tableau, Power BI).
+- Exceptional **communication and presentation skills** to convey insights to diverse audiences.
+- Familiarity with cloud data warehouses (e.g., Snowflake, BigQuery, Redshift) is a plus.

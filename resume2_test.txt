@@ -1,0 +1,29 @@
+Resume 1: Senior Product Data Scientist
+
+Contact: analyst.pro@example.com | LinkedIn: linkedin.com/in/analytics-expert
+
+Summary:
+Data-driven Senior Data Scientist with over 6 years of experience specializing in product analytics and experimentation within the e-commerce sector. Proven track record of leveraging SQL, Python, and advanced statistical methods to drive significant product improvements and business growth. Passionate about uncovering actionable insights from complex datasets.
+
+Experience:
+Lead Product Data Scientist, E-Commerce Giant Ltd. | 2021 - Present
+- Led the design and analysis of over 100 A/B tests, contributing to a 10% increase in conversion rate and 5% uplift in user retention.
+- Developed and productionized churn prediction models using Python (XGBoost, scikit-learn), reducing customer churn by 8%.
+- Built automated dashboards and reports in Tableau, providing real-time insights into key product metrics.
+- Optimized SQL queries against Snowflake data warehouse, improving query performance by 30%.
+- Mentored a team of 3 junior data analysts on A/B testing best practices and data visualization.
+
+Data Analyst, Digital Media Solutions Inc. | 2018 - 2021
+- Performed in-depth exploratory data analysis on user engagement data to inform content strategy.
+- Developed statistical models to identify key drivers of content virality.
+- Automated data extraction processes using Python scripts for regular reporting.
+- Presented analytical findings to product and marketing teams.
+
+Skills:
+Analytics: Product Analytics, A/B Testing, Experimentation Design, User Behavior Analysis, Churn Prediction, Lifetime Value (LTV) Modeling, Funnel Analysis
+Programming: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL (Advanced)
+Statistics: Hypothesis Testing, Regression, Classification, Time Series Analysis
+Databases/Warehouses: Snowflake, PostgreSQL, MySQL
+Visualization: Tableau, Power BI
+Tools: Git, Jira, Confluence, Google Analytics, Amplitude
+Soft Skills: Communication, Storytelling, Problem-Solving, Cross-functional Collaboration, Mentorship
