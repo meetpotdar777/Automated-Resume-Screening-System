@@ -182,3 +182,6 @@ Deployment: Deploy the Flask application to a cloud platform (e.g., Heroku, AWS,
 
 Feedback Loop: Implement a way for users to provide feedback on screening results to refine the model over time.
 
+C:\Users\Administrator\OneDrive\Pictures\Camera Roll\Screenshot 2025-06-28 200150.png
+
+C:\Users\Administrator\OneDrive\Pictures\Camera Roll\Screenshot 2025-06-28 200054.png
