@@ -26,6 +26,7 @@
         "supersecretkey",
         "Tfidf",
         "Vectorizer",
+        "venv",
         "virality",
         "wordnet",
         "yfinance"
